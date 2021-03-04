@@ -1,0 +1,18 @@
+table {
+    border: 1px solid black;
+}
+thead {
+    background-color: #94DBD7;
+}
+.containerFlex {
+    display: flex;
+}
+.lineThroughText {
+    text-decoration: line-through;
+}
+form > p {
+    text-align: center;
+}
+form label, form input {
+    margin: 5px;
+}
